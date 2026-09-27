@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg?v=3" width="900" alt="Áreas de atuação">
+  <img src="./assets/typing.svg?v=4" width="900" alt="Áreas de atuação">
 </p>
 
 <p align="center">
