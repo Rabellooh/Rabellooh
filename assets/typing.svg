@@ -1,23 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-labelledby="title desc">
 <title id="title">Áreas de atuação de Gabriel Rabello</title>
-<desc id="desc">Texto animado alternando entre suporte, infraestrutura, automação e desenvolvimento interno.</desc>
+<desc id="desc">Animação alternando entre suporte, infraestrutura, automação e desenvolvimento interno.</desc>
+<style>
+  .line { opacity: 0; animation: cycle 16s linear infinite; }
+  .l1 { animation-delay: 0s; }
+  .l2 { animation-delay: 4s; }
+  .l3 { animation-delay: 8s; }
+  .l4 { animation-delay: 12s; }
+  @keyframes cycle {
+    0% { opacity: 0; }
+    3% { opacity: 1; }
+    22% { opacity: 1; }
+    25% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+  .cursor { animation: blink .9s steps(1,end) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
 <rect width="900" height="58" rx="12" fill="#0D1117"/>
 <text x="24" y="37" fill="#39D98A" font-family="Consolas,Monaco,monospace" font-size="20">$</text>
 <g font-family="Consolas,Monaco,monospace" font-size="19" fill="#E6EDF3">
-  <text x="50" y="37" opacity="0">Suporte N1/N2 &amp; Infraestrutura de TI
-    <animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.22;0.25;0.97;1" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <text x="50" y="37" opacity="0">Automação aplicada à rotina de suporte
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.25;0.47;0.50;1" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <text x="50" y="37" opacity="0">Python • Flask • PostgreSQL • Docker
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.49;0.50;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <text x="50" y="37" opacity="0">Transformando problemas operacionais em soluções.
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.74;0.75;0.97;1" dur="16s" repeatCount="indefinite"/>
-  </text>
+  <text class="line l1" x="50" y="37">Suporte N1/N2 &amp; Infraestrutura de TI</text>
+  <text class="line l2" x="50" y="37">Automação aplicada à rotina de suporte</text>
+  <text class="line l3" x="50" y="37">Python • Flask • PostgreSQL • Docker</text>
+  <text class="line l4" x="50" y="37">Transformando problemas operacionais em soluções.</text>
 </g>
-<rect x="842" y="17" width="8" height="24" fill="#39D98A">
-  <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
-</rect>
+<rect class="cursor" x="842" y="17" width="8" height="24" rx="1" fill="#39D98A"/>
 </svg>
