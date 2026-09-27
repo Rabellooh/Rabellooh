@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=39D98A&center=true&vCenter=true&width=780&lines=Suporte+N1%2FN2+%26+Infraestrutura+de+TI;Automação+aplicada+à+rotina+de+suporte;Python+%E2%80%A2+Flask+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Transformando+problemas+operacionais+em+soluções."
-      alt="Typing animation"
-    />
-  </a>
+  <img src="./assets/typing.svg?v=2" width="900" alt="Typing animation">
 </p>
 
 <p align="center">
@@ -216,7 +211,7 @@ Simulador de cenários de suporte técnico voltado a treinamento, troubleshootin
 # `> github --stats`
 
 <p align="center">
-  <img src="./assets/generated/stats.svg" width="820" alt="GitHub Stats">
+  <img src="./assets/generated/stats.svg?v=2" width="820" alt="GitHub Stats">
 </p>
 
 ---
@@ -224,7 +219,7 @@ Simulador de cenários de suporte técnico voltado a treinamento, troubleshootin
 ## `> top_languages`
 
 <p align="center">
-  <img src="./assets/generated/languages.svg" width="820" alt="Top Languages">
+  <img src="./assets/generated/languages.svg?v=2" width="820" alt="Top Languages">
 </p>
 
 ---
@@ -232,7 +227,7 @@ Simulador de cenários de suporte técnico voltado a treinamento, troubleshootin
 ## `> streak`
 
 <p align="center">
-  <img src="./assets/generated/streak.svg" width="820" alt="Streak e contribuições">
+  <img src="./assets/generated/streak.svg?v=2" width="820" alt="Streak e contribuições">
 </p>
 
 ---
@@ -240,7 +235,7 @@ Simulador de cenários de suporte técnico voltado a treinamento, troubleshootin
 ## `> activity_graph`
 
 <p align="center">
-  <img src="./assets/generated/activity.svg" width="820" alt="Activity Graph">
+  <img src="./assets/generated/activity.svg?v=2" width="820" alt="Activity Graph">
 </p>
 
 ---
@@ -248,7 +243,7 @@ Simulador de cenários de suporte técnico voltado a treinamento, troubleshootin
 ## `> github_trophies`
 
 <p align="center">
-  <img src="./assets/generated/trophies.svg" width="820" alt="GitHub Achievements">
+  <img src="./assets/generated/trophies.svg?v=2" width="820" alt="GitHub Achievements">
 </p>
 
 ---
