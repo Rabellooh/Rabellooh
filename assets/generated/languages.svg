@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180">
+<rect width="820" height="180" rx="16" fill="#0D1117" stroke="#30363D"/>
+<text x="36" y="70" fill="#39D98A" font-family="Consolas,monospace" font-size="22">Top Languages</text>
+<text x="36" y="108" fill="#8B949E" font-family="Segoe UI,Arial,sans-serif" font-size="15">Será atualizado automaticamente pelo GitHub Actions.</text>
+<text x="36" y="136" fill="#C9D1D9" font-family="Segoe UI,Arial,sans-serif" font-size="13">Actions → GitHub Profile Metrics → Run workflow</text>
+</svg>
