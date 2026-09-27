@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Gabriel Rabello</title>
+<desc id="desc">Suporte N1/N2, Infraestrutura, Automação e Desenvolvimento Interno</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0D1117"/>
+    <stop offset="0.58" stop-color="#101820"/>
+    <stop offset="1" stop-color="#052E23"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#39D98A"/>
+    <stop offset="1" stop-color="#00A86B"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<path d="M0 252 C240 210 420 300 650 250 S1000 210 1200 250 V300 H0 Z" fill="#071D17" opacity=".85"/>
+<circle cx="1030" cy="60" r="150" fill="#00A86B" opacity=".055"/>
+<circle cx="1140" cy="170" r="115" fill="#39D98A" opacity=".04"/>
+<g opacity=".12" stroke="#39D98A" stroke-width="1">
+  <path d="M760 38H1135M760 78H1135M760 118H1135M760 158H1135M760 198H1135"/>
+  <path d="M800 25V215M860 25V215M920 25V215M980 25V215M1040 25V215M1100 25V215"/>
+</g>
+<rect x="62" y="56" width="7" height="188" rx="3.5" fill="url(#accent)" filter="url(#glow)"/>
+<text x="98" y="105" fill="#8B949E" font-family="Consolas,Monaco,monospace" font-size="20">&gt; whoami</text>
+<text x="98" y="158" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700">Gabriel Rabello</text>
+<text x="100" y="198" fill="#39D98A" font-family="Consolas,Monaco,monospace" font-size="20">Suporte N1/N2  •  Infraestrutura  •  Automação</text>
+<text x="100" y="229" fill="#B7C1CA" font-family="Segoe UI,Arial,sans-serif" font-size="17">TI prática: diagnosticar, organizar, automatizar e melhorar.</text>
+<g transform="translate(795 72)">
+  <rect x="0" y="0" width="300" height="132" rx="14" fill="#0B1218" stroke="#24313A"/>
+  <circle cx="24" cy="22" r="5" fill="#39D98A"/>
+  <circle cx="43" cy="22" r="5" fill="#586069"/>
+  <circle cx="62" cy="22" r="5" fill="#586069"/>
+  <text x="23" y="59" fill="#8B949E" font-family="Consolas,Monaco,monospace" font-size="14">$ profile --focus</text>
+  <text x="23" y="84" fill="#E6EDF3" font-family="Consolas,Monaco,monospace" font-size="14">support / infra / assets</text>
+  <text x="23" y="108" fill="#39D98A" font-family="Consolas,Monaco,monospace" font-size="14">automation / internal tools</text>
+</g>
+</svg>
