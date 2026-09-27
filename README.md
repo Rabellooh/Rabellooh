@@ -1,41 +1,37 @@
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:063D2B,100:00A86B&height=230&section=header&text=Gabriel%20Rabello&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Suporte%20N1%2FN2%20%E2%80%A2%20Infraestrutura%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descAlignY=59&descSize=18&descColor=9FE7C5"
-    alt="Gabriel Rabello"
-  />
+  <img src="./assets/banner.svg" width="100%" alt="Gabriel Rabello — Suporte N1/N2, Infraestrutura e Automação">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=39D98A&center=true&vCenter=true&width=800&lines=Suporte+N1%2FN2+%26+Infraestrutura+de+TI;Automação+aplicada+à+rotina+de+suporte;Python+%E2%80%A2+Flask+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Transformando+problemas+operacionais+em+soluções."
-      alt="Typing Animation"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=39D98A&center=true&vCenter=true&width=780&lines=Suporte+N1%2FN2+%26+Infraestrutura+de+TI;Automação+aplicada+à+rotina+de+suporte;Python+%E2%80%A2+Flask+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Transformando+problemas+operacionais+em+soluções."
+      alt="Typing animation"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://gabriel-rabello-cv.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Explorar-00A86B?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFÓLIO-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-nascimento-ti">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Rabellooh">
-    <img src="https://img.shields.io/badge/GitHub-Rabellooh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<br>
+---
 
 ## `> whoami`
 
 Sou **Gabriel Rabello Costa Do Nascimento**, profissional de TI com atuação em **Suporte N1/N2, infraestrutura, gestão de ativos e melhoria de processos internos**.
 
-Minha rotina envolve desde troubleshooting de hardware, software, Windows, Microsoft 365, redes e telefonia IP até organização de inventário, manutenção de equipamentos, documentação técnica e suporte aos usuários.
+Minha rotina envolve troubleshooting de hardware e software, Windows, Microsoft 365, redes, telefonia IP, manutenção de equipamentos, documentação técnica e suporte aos usuários.
 
-Também utilizo desenvolvimento e automação como extensão do suporte. Quando encontro um processo repetitivo, descentralizado ou excessivamente manual, procuro uma maneira de **automatizar, organizar ou transformar aquilo em uma ferramenta interna**.
+Também utilizo desenvolvimento e automação como extensão do suporte: quando um processo é repetitivo, descentralizado ou excessivamente manual, procuro uma forma de **automatizar, organizar ou transformar aquilo em uma ferramenta interna**.
 
 ```text
 support@rabellooh:~$ ./profile
@@ -46,7 +42,6 @@ support@rabellooh:~$ ./profile
 [+] Telefonia..................... VoIP / MicroSIP
 [+] Automação..................... PowerShell / Batch / Python
 [+] Desenvolvimento interno....... Flask + PostgreSQL + Docker
-[+] Objetivo...................... TI organizada, rastreável e eficiente
 ```
 
 ---
@@ -56,27 +51,27 @@ support@rabellooh:~$ ./profile
 ### Suporte & Infraestrutura
 
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redes%20TCP%2FIP-111827?style=for-the-badge&logo=cisco&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/VoIP-111827?style=for-the-badge&logo=webrtc&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=dell&logoColor=39D98A" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white">
+  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=for-the-badge&logo=cisco&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/VoIP-111827?style=for-the-badge&logo=webrtc&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=dell&logoColor=39D98A">
 </p>
 
 ### Desenvolvimento & Automação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,docker,html,css,js,powershell,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,docker,html,css,js,powershell,git,github,vscode&theme=dark" alt="Tecnologias">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/Jinja2-111827?style=flat-square&logo=jinja&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-111827?style=flat-square&logo=docker&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/pgAdmin-111827?style=flat-square&logo=postgresql&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/Batch-111827?style=flat-square&logo=windows&logoColor=39D98A" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/Jinja2-111827?style=flat-square&logo=jinja&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/Docker%20Compose-111827?style=flat-square&logo=docker&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/pgAdmin-111827?style=flat-square&logo=postgresql&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/Batch-111827?style=flat-square&logo=windows&logoColor=39D98A">
 </p>
 
 ---
@@ -110,7 +105,6 @@ support@rabellooh:~$ ./profile
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -126,9 +120,9 @@ support@rabellooh:~$ ./profile
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automação
+### ⚙️ Automação & melhoria
 
-- Scripts para suporte
+- Scripts para rotinas de suporte
 - Relatórios operacionais
 - Ferramentas internas
 - Digitalização de controles manuais
@@ -145,130 +139,75 @@ support@rabellooh:~$ ./profile
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🟢 Vyron ITSM
 
-Sistema web desenvolvido para centralizar processos internos de TI.
-
-O projeto surgiu de necessidades reais da operação e evoluiu para reunir recursos de suporte, inventário e gestão em uma única aplicação.
+Sistema web voltado à centralização da operação de TI, desenvolvido a partir de necessidades reais de suporte e gestão.
 
 **Recursos**
 
-`Chamados` `Inventário` `Ativos` `QR Code` `Estoque`
-
-`Dashboards` `Relatórios` `Mapas` `Histórico`
-
-`Permissões` `Auditoria`
+`Chamados` `Inventário` `Ativos`  
+`Estoque` `Dashboards` `Relatórios`  
+`Mapas` `Histórico` `Permissões` `Auditoria`
 
 **Stack**
 
-`Python` `Flask` `PostgreSQL`
-
-`SQLAlchemy` `Docker`
-
-`Jinja2` `HTML` `CSS` `JavaScript`
+`Python` `Flask` `PostgreSQL`  
+`SQLAlchemy` `Docker` `Jinja2`
 
 <br>
 
 <a href="https://github.com/Rabellooh/vyron-itsm-demo">
-  <img src="https://img.shields.io/badge/Ver_repositório-00A86B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00A86B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧰 GR Tech Toolkit
 
-Coleção de ferramentas voltadas para suporte e diagnóstico em ambientes Windows.
-
-O projeto busca transformar atividades recorrentes da rotina técnica em procedimentos mais rápidos e padronizados.
+Toolkit para transformar tarefas recorrentes de suporte Windows em processos mais rápidos e padronizados.
 
 **Foco**
 
-`PowerShell`
-
-`Batch`
-
-`Windows`
-
-`Diagnóstico`
-
-`Inventário`
-
-`Automação`
+`PowerShell` `Batch` `Windows`  
+`Diagnóstico` `Inventário` `Automação`
 
 <br>
 
 <a href="https://github.com/Rabellooh/gr-tech-toolkit">
-  <img src="https://img.shields.io/badge/Ver_repositório-00A86B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00A86B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎫 Ticket Zero Prime
 
-Projeto em formato de simulação voltado para situações de suporte técnico.
+Simulador de cenários de suporte técnico voltado a treinamento, troubleshooting e avaliação por competências.
 
-A proposta é transformar cenários de troubleshooting e atendimento em uma experiência interativa de treinamento.
+**Stack**
 
-**Tecnologias**
+`Godot 4` `GDScript`
 
-`Godot 4`
+**Foco**
 
-`GDScript`
-
-`Troubleshooting`
-
-`Suporte Técnico`
-
-`Treinamento`
+`Suporte N1–N3` `Troubleshooting` `Treinamento`
 
 <br>
 
 <a href="https://github.com/Rabellooh/ticket-zero-prime">
-  <img src="https://img.shields.io/badge/Ver_repositório-00A86B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Portfólio
-
-Uma visão mais completa da minha trajetória, projetos, experiência e tecnologias utilizadas.
-
-<br>
-
-<a href="https://gabriel-rabello-cv.vercel.app">
-  <img src="https://img.shields.io/badge/Acessar_portfólio-00A86B?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00A86B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 </tr>
 </table>
 
----
-
-## `> featured`
-
 <p align="center">
-  <a href="https://github.com/Rabellooh/vyron-itsm-demo">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Rabellooh&repo=vyron-itsm-demo&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9"
-    />
-  </a>
-
-  <a href="https://github.com/Rabellooh/gr-tech-toolkit">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Rabellooh&repo=gr-tech-toolkit&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9"
-    />
+  <a href="https://gabriel-rabello-cv.vercel.app">
+    <img src="https://img.shields.io/badge/VER_PORTFÓLIO_COMPLETO-111827?style=for-the-badge&logo=vercel&logoColor=39D98A">
   </a>
 </p>
 
@@ -277,17 +216,15 @@ Uma visão mais completa da minha trajetória, projetos, experiência e tecnolog
 # `> github --stats`
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Rabellooh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9&ring_color=39D98A"
-    alt="GitHub Stats"
-  />
+  <img src="./assets/generated/stats.svg" width="820" alt="GitHub Stats">
+</p>
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabellooh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9"
-    alt="Top Languages"
-  />
+---
+
+## `> top_languages`
+
+<p align="center">
+  <img src="./assets/generated/languages.svg" width="820" alt="Top Languages">
 </p>
 
 ---
@@ -295,34 +232,23 @@ Uma visão mais completa da minha trajetória, projetos, experiência e tecnolog
 ## `> streak`
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Rabellooh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Streak"
-  />
+  <img src="./assets/generated/streak.svg" width="820" alt="Streak e contribuições">
 </p>
 
 ---
 
-## `> activity`
+## `> activity_graph`
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rabellooh&bg_color=0D1117&color=C9D1D9&line=39D98A&point=FFFFFF&area=true&area_color=0B6E4F&hide_border=true"
-    alt="Activity Graph"
-  />
+  <img src="./assets/generated/activity.svg" width="820" alt="Activity Graph">
 </p>
 
 ---
 
-## `> trophies`
+## `> github_trophies`
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=Rabellooh&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8"
-    alt="GitHub Trophies"
-  />
+  <img src="./assets/generated/trophies.svg" width="820" alt="GitHub Achievements">
 </p>
 
 ---
@@ -330,85 +256,39 @@ Uma visão mais completa da minha trajetória, projetos, experiência e tecnolog
 ## `> contribution_snake`
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rabellooh/Rabellooh/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake contribution animation"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rabellooh/Rabellooh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rabellooh/Rabellooh/output/github-contribution-grid-snake.svg">
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Rabellooh/Rabellooh/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## `> profile.yml`
+## `> formação_contínua`
 
-```yaml
-name: Gabriel Rabello Costa Do Nascimento
-
-focus:
-  - Suporte N1/N2
-  - Infraestrutura de TI
-  - Gestão de ativos
-  - Automação
-
-daily_work:
-  - troubleshooting
-  - suporte presencial e remoto
-  - hardware
-  - Windows
-  - Microsoft 365
-  - redes
-  - telefonia IP
-  - inventário
-
-development:
-  backend:
-    - Python
-    - Flask
-    - SQLAlchemy
-
-  database:
-    - PostgreSQL
-    - SQL
-
-  infrastructure:
-    - Docker
-    - Docker Compose
-
-  automation:
-    - PowerShell
-    - Batch
-
-principle:
-  "Automatizar o repetitivo. Documentar o importante. Resolver o problema."
-```
-
----
-
-## `> formação`
-
-Minha formação e meus estudos acompanham a evolução da minha atuação profissional, conectando **suporte, infraestrutura, desenvolvimento, cloud e segurança**.
+Minha formação e meus estudos acompanham minha atuação profissional, conectando **suporte, infraestrutura, desenvolvimento, cloud e segurança**.
 
 <p>
-  <img src="https://img.shields.io/badge/Análise_e_Desenvolvimento_de_Sistemas-Em_andamento-00A86B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Técnico_em_Informática-CEFET%2FRJ-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-Estudos-111827?style=flat-square&logo=microsoftazure&logoColor=39D98A" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Estudos-111827?style=flat-square&logo=hackthebox&logoColor=39D98A" />
+  <img src="https://img.shields.io/badge/Análise_e_Desenvolvimento_de_Sistemas-Em_andamento-00A86B?style=flat-square">
+  <img src="https://img.shields.io/badge/Técnico_em_Informática-CEFET%2FRJ-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-Estudos-111827?style=flat-square&logo=microsoftazure&logoColor=39D98A">
+  <img src="https://img.shields.io/badge/Cybersecurity-Estudos-111827?style=flat-square&logo=hackthebox&logoColor=39D98A">
 </p>
 
 ---
 
-# `> contact`
+## `> connect`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-nascimento-ti">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Rabello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Rabello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
   <a href="https://gabriel-rabello-cv.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Visitar-00A86B?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-Visitar-00A86B?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-
   <a href="https://github.com/Rabellooh">
-    <img src="https://img.shields.io/badge/GitHub-Rabellooh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Rabellooh-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -419,22 +299,7 @@ Minha formação e meus estudos acompanham a evolução da minha atuação profi
 ### `support → infrastructure → automation → improvement`
 
 <sub>
-Não é sobre usar mais ferramentas.<br>
-É sobre usar tecnologia para fazer a operação funcionar melhor.
+Automatizar o repetitivo. Documentar o importante. Resolver o problema.
 </sub>
 
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Rabellooh&style=flat-square&color=00A86B&label=VISITAS+AO+PERFIL"
-  alt="Profile views"
-/>
-
 </div>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,50:063D2B,100:0D1117&height=120&section=footer"
-  />
-</p>
