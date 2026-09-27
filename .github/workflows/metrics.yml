@@ -45,18 +45,6 @@ jobs:
           config_timezone: America/Sao_Paulo
           output_action: commit
 
-      - name: Contribution streak
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: Rabellooh
-          filename: assets/generated/streak.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          config_timezone: America/Sao_Paulo
-          output_action: commit
 
       - name: Activity graph
         uses: lowlighter/metrics@latest
